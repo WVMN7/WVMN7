@@ -1,54 +1,50 @@
 ## Hi there 👋
 
-# Salom, men Sobiryozov! 👋 
+# <p align="center">⚔️ SOBIRYOZOV'S UNIVERSE ⚔️</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Front-End+Developer;Linux+%26+Kali+User;Gamer+by+Heart;Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Front-End%20Developer&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pueXN4Z3ZueXN4Z3ZueXN4Z3ZueXN4Z3ZueXN4Z3ZueXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29mJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="100%" />
 </p>
 
 ---
 
 ### 🚀 Men haqimda
-Men **Front-End Developer**man. Kod yozish bilan birga tizimlar xavfsizligi va Linux muhitiga qiziqaman. Bo'sh vaqtimda esa sifatli o'yinlar olamiga sho'ng'iyman.
-
-- 💻 **Asosiy yo'nalish:** Web Development (Front-End)
-- 🐧 **OS:** Linux & Kali Linux (Pentesting & Security qiziqishlari)
-- 🎯 **Maqsad:** Mukammal interfeyslar va xavfsiz tizimlar yaratish.
+- 👨‍💻 **Kasbim:** Front-End Developer
+- 🐧 **Tizim:** Linux & Kali Linux (Pentesting ishqibozi)
+- 🐍 **Qo'shimcha:** Python bo'yicha bilimga ega
+- 🎮 **Hayot tarzi:** Kod yozish va CS 2 o'ynash
 
 ---
 
-### 🛠 Texnologiyalar va Instrumentlar
+### 🛠 Texnologiyalar
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,linux,kali,git,vscode,github,bash" />
 </p>
 
 ---
 
-### 🎮 Men yoqtirgan o'yinlar
-Kod yozishdan charchaganda, quyidagi o'yinlarda mahorat ko'rsataman:
-
-* **Counter-Strike Seriyasi:** CS 2, CS:GO, CS 1.6 🔫
-* **Red Dead Redemption:** RDR 2 (Western atmosferasi) 🐎
+### 🎮 Gaming Room (My Favorites)
+| O'yin nomi | Logotipi | Tajriba |
+| :--- | :---: | :--- |
+| **Counter-Strike 2** | <img src="https://cdn.simpleicons.org/counterstrike/000000" width="30" /> | Competitive Player |
+| **CS:GO / 1.6** | <img src="https://cdn-icons-png.flaticon.com/512/106/106828.png" width="30" /> | Old School Legend |
+| **Red Dead Redemption** | <img src="https://cdn-icons-png.flaticon.com/512/3233/3233497.png" width="30" /> | Outlaw & Explorer |
 
 ---
 
 ### 📊 GitHub Statistikam
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FOYDALANUVCHI_NOMINGIZ&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOYDALANUVCHI_NOMINGIZ&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FOYDALANUVCHI_NOMINGIZ&show_icons=true&theme=cyanical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOYDALANUVCHI_NOMINGIZ&layout=compact&theme=cyanical" />
 </p>
 
 ---
 
-### 🌐 Men bilan bog'laning
+### 🌐 Aloqa
 <p align="left">
   <a href="https://t.me/etosobiryozov7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -60,6 +56,6 @@ Kod yozishdan charchaganda, quyidagi o'yinlarda mahorat ko'rsataman:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FOYDALANUVCHI_NOMINGIZ&label=Profilni+ko'rganlar&color=00FF41&style=flat" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=FOYDALANUVCHI_NOMINGIZ&label=Sizdan+oldingi+mehmonlar&color=00f2ff&style=flat-square" />
 </p>
