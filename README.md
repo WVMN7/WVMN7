@@ -1,9 +1,9 @@
-## Hi there 👋
 
-# <p align="center">⚔️ SOBIRYOZOV'S UNIVERSE ⚔️</p>
+
+# <p align="center">Hi I'am Abbosbek Sobiryozov</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Front-End%20Developer&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Front-End+Developer;Linux+%26+Kali+User;Gamer+by+Heart;Python+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
